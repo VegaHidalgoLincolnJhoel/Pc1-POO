@@ -14,7 +14,7 @@ class Jugador {
     private String nombre_jug;
     private int numeroCamiseta_jug;
 
-    public Jugador(String cod, String nom) {
+    public Jugador(String cod, /*para probar*/String nom) {
         this.codigo_jug = cod;
           //para probar
         this.nombre_jug = nom;

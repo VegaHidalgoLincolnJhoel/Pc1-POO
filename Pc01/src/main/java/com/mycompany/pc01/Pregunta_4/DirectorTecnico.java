@@ -15,6 +15,7 @@ class DirectorTecnico {
     private double sueldo_dt;
 
     public DirectorTecnico(/*paraprobar*/String nom) {
+    //para probar
     this.nombre_dt = nom;
     }
 

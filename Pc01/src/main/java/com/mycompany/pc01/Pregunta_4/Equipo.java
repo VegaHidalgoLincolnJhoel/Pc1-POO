@@ -14,7 +14,7 @@ class Equipo {
     private String nombre_equi;
     private int anioFundacion_equi;
 
-    public Equipo(String cod, String nom_equi) {
+    public Equipo(String cod,/*Para probar*/ String nom_equi) {
         this.codigo_equi = cod;
         //para probar
         this.nombre_equi = nom_equi;
